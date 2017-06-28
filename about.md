@@ -4,12 +4,29 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a cybersecurity professional as well as a freelance photographer based in Hong Kong / Mainland China. 
 
-### More Information
+### Interested In
+- Cybersecurity practice
+  - 7+ years
+  - OSCP & CISM
 
-A place to include any other types of information that you'd like to include about yourself.
+- Photography
+  - Landscape: 
+    - 10+ years
+  - Wedding: 
+    - 7+ years
+    - WPJA member
 
-### Contact me
+- Craft Beer
+  - 5+ years
+  - Belgium produces the BEST beer in the world!!!
 
-[email@domain.com](mailto:email@domain.com)
+- Travelling
+  - 25+ provinces in China
+  - 10+ countries/regions abroad
+
+
+### Contact
+
+[scorpion.zhang@gmail.com](mailto:scorpion.zhang@gmail.com)

@@ -3,10 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
+<p align="center">
 name: WUTHERING WINDS SOARING CLOUDS 云起风扬
+</p>
 
 # Short bio or description (displayed in the header)
+<p align="center">
 description: A Cybersecurity & Photography Guy 网络安全和摄影人
+</p>
 
 #
 # Flags below are optional

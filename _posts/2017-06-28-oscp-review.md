@@ -3,6 +3,7 @@ published: true
 layout: post
 ---
 ## A Personal Review on OSCP Certificate
+TRY HARDER!!!
 
 ### 0x00 - Prologue
 OSCP - Offensive Security Certified Professional, is an ethical hacking certificate that is gaining much popularity around the globe in recent years. 

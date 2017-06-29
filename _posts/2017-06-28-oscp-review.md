@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ## A Personal Review on OSCP Certificate

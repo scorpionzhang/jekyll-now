@@ -58,7 +58,7 @@ The course materials are pretty straight forward, in an easy to understand way i
 
 Once you feel you are good to go, you are in the most interesting part of the journey which is the lab session. 
 
-You will be given a virtual coporate network consisting of 50+ vulnerable hosts of different nature. There will be out-dated Windows XP and 2003, as well as new versions like Windows 2008 and 2012. There will be FreeBSD and various Linux distributions. Each host can be exploited in one or more ways, with or without Metasploit. 
+You will be given a virtual corporate network consisting of 50+ vulnerable hosts of different nature. There will be out-dated Windows XP and 2003, as well as new versions like Windows 2008 and 2012. There will be FreeBSD and various Linux distributions. Each host can be exploited in one or more ways, with or without Metasploit. 
 
 After you have pwned the hosts, you can find evidence text files as loots, as also in the exam hosts. In the end of the lab session / exam, you will need to submit the loots back to Offensive Security.
 

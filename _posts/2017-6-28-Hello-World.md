@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 published: true
-tags: 'security, testing'
+tags: testing helloworld
 ---
 This is my first ever post on Github! 
 

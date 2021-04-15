@@ -114,7 +114,7 @@ I can't reveal more details about the exam but my general tips is that:
 - Make your own cheatsheet!
 - Get a good rest on the exam day and the day before.
 - Don't overestimate the difficulty of the exam boxes. They are generally easier than those most frustrating lab boxes. 
-- Focus on ENUERATION!!! Focus on ENUERATION!!! Focus on ENUERATION!!! 
+- Focus on ENUMERATION!!! Focus on ENUMERATION!!! Focus on ENUMERATION!!! 
 - Be careful and don't fall into rabbit holes. But if you believe you have found some obvious clues just go for it.
 - Google is your best friend.
 - Take notes and screenshots along the way, especially during key steps. You will need them to complete your reports. 

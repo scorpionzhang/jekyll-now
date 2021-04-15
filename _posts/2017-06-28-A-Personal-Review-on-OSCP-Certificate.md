@@ -103,7 +103,7 @@ Note that not all the sections in the template are needed, and you can add new s
 Finally I was so lucky to have finished everything 1 hour before the deadline.
 
 After a few days I am so happy to receive the email from Offsec:
-![oscp-msg.png]({{site.baseurl}}/_posts/oscp-msg.png)
+![oscp-msg.png](https://raw.githubusercontent.com/scorpionzhang/scorpionzhang.github.io/3120ab5a827c8fbfea68a9a26b6b598f58f6d663/_posts/oscp-msg.png)
 
 Such a relief!!!
 
